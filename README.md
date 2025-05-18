@@ -1,1 +1,1 @@
-   # TETRIS made by ANUP    
+   # TETRIS Made by ANUP    
